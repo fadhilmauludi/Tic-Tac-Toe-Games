@@ -103,26 +103,13 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
 
 ### Tampilan Aplikasi Tic-Tac-Toe
 
-* **Menu Login:**
-  ![Halaman Login](Tic Tac Toe Games/img/Screenshot (397).png)
-
-* **Notifikasi Login Berhasil:**
-  ![Login Sukses](Tic Tac Toe Games/img/Screenshot (398).png)
-
-* **Halaman Awal Game:**
-  ![Home Page Game](Tic Tac Toe Games/img/Screenshot (403).png)
-
-* **In Game:**
-  ![In Game Activity](Tic Tac Toe Games/img/Screenshot (399).png)
-
-* **Hasil Game:**
-  ![Hasil Game](Tic Tac Toe Games/img/Screenshot (400).png)
-
-* **Statistik Game Saya:**
-  ![Your Stats](Tic Tac Toe Games/img/Screenshot (401).png)
-
-* **Statistik Top 5 Pemain:**
-  ![Top 5 Player](Tic Tac Toe Games/img/Screenshot (401).png)
+* **Menu Login:** ![Halaman Login](Tic%20Tac%20Toe%20Games/img/Screenshot%20(397).png)
+* **Notifikasi Login Berhasil:** ![Login Sukses](Tic%20Tac%20Toe%20Games/img/Screenshot%20(398).png)
+* **Halaman Awal Game:** ![Home Page Game](Tic%20Tac%20Toe%20Games/img/Screenshot%20(403).png)
+* **In Game:** ![In Game Activity](Tic%20Tac%20Toe%20Games/img/Screenshot%20(399).png)
+* **Hasil Game:** ![Hasil Game](Tic%20Tac%20Toe%20Games/img/Screenshot%20(400).png)
+* **Statistik Game Saya:** ![Your Stats](Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png)
+* **Statistik Top 5 Pemain:** ![Top 5 Player](Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png)
 
 ## Video Link
 - YouTube: [ISI LINK VIDEO KAMU]
