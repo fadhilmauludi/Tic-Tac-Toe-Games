@@ -3,7 +3,7 @@
 ## Student Information
 - **Name:** Fadhil Mauludi
 - **Student ID:** 5026251221
-- **Class:** ES234211 – Programming Fundamental
+- **Class:** Programming Fundamental (E)
 
 ---
 
@@ -115,4 +115,4 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
   [![Demo Tic-Tac-Toe](https://img.youtube.com/vi/mZ7Fj1UAOcY/0.jpg)](https://youtu.be/mZ7Fj1UAOcY)
 
 ## GitHub Link
-- GitHub: [ISI LINK REPO KAMU]
+- GitHub: [Github Repositories] (https://github.com/fadhilmauludi/Tic-Tac-Toe-Games.git)
