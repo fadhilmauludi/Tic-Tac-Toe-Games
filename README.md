@@ -104,13 +104,13 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
 ### Tampilan Aplikasi Tic-Tac-Toe
 
 * **Menu Login:**
-  ![Halaman Login](Screenshot%20(393).jpg)
+  ![Halaman Login](img/Screenshot%20(393).jpg)
 
 * **Notifikasi Login Berhasil:**
-  ![Login Sukses](Screenshot%20(394).jpg)
+  ![Login Sukses](img/Screenshot%20(394).jpg)
 
 * **Halaman Skor Tertinggi:**
-  ![Top 5 Pemain](Screenshot%20(395).jpg)
+  ![Top 5 Pemain](img/Screenshot%20(395).jpg)
 
 ## Video Link
 - YouTube: [ISI LINK VIDEO KAMU]
