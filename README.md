@@ -105,14 +105,14 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
 
 * **Menu Login:** ![Halaman Login](Tic%20Tac%20Toe%20Games/img/Screenshot%20(397).png)
 * **Notifikasi Login Berhasil:** ![Login Sukses](Tic%20Tac%20Toe%20Games/img/Screenshot%20(398).png)
-* **Halaman Awal Game:** ![Home Page Game](Tic%20Tac%20Toe%20Games/img/Screenshot%20(403).png)
+* **Halaman Awal Game:** ![Home Page Game](Tic%20Tac%20Toe%20Games/img/Screenshot%20(407).png)
 * **In Game:** ![In Game Activity](Tic%20Tac%20Toe%20Games/img/Screenshot%20(399).png)
 * **Hasil Game:** ![Hasil Game](Tic%20Tac%20Toe%20Games/img/Screenshot%20(400).png)
 * **Statistik Game Saya:** ![Your Stats](Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png)
-* **Statistik Top 5 Pemain:** ![Top 5 Player](Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png)
+* **Statistik Top 5 Pemain:** ![Top 5 Player](Tic%20Tac%20Toe%20Games/img/Screenshot%20(402).png)
 
-## Video Link
-- YouTube: [ISI LINK VIDEO KAMU]
+* **YouTube Video Demo:**
+  [![Demo Tic-Tac-Toe](https://img.youtube.com/vi/mZ7Fj1UAOcY/0.jpg)](https://youtu.be/mZ7Fj1UAOcY)
 
 ## GitHub Link
 - GitHub: [ISI LINK REPO KAMU]
