@@ -113,9 +113,7 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
   </tr>
   <tr>
     <td align="center"><b>Statistik Game Saya</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png" width="350" alt="Stats"></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><b>Statistik Top 5 Pemain</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(402).png" width="500" alt="Leaderboard"></td>
+     <td colspan="2" align="center"><b>Statistik Top 5 Pemain</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(402).png" width="500" alt="Leaderboard"></td>
   </tr>
 </table>
 
