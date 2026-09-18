@@ -108,7 +108,6 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
     <td align="center"><b>Notifikasi Login Berhasil</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(398).png" width="350" alt="Login Success"></td>
   </tr>
   <tr>
-    <td align="center"><b>Halaman Awal Game</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(407).png" width="350" alt="Home"></td>
     <td align="center"><b>In Game</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(399).png" width="350" alt="Gameplay"></td>
   </tr>
   <tr>
@@ -121,9 +120,6 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
 </table>
 
 ---
-
-## 🎥 YouTube Video Demo
-[![Demo Tic-Tac-Toe](https://img.youtube.com/vi/mZ7Fj1UAOcY/maxresdefault.jpg)](https://youtu.be/mZ7Fj1UAOcY)
 
 ## 🔗 GitHub Link
 - **GitHub:** [Github Repositories](https://github.com/fadhilmauludi/Tic-Tac-Toe-Games.git)
