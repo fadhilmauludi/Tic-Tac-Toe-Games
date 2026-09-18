@@ -1,19 +1,19 @@
-# 🎮 Java Swing Tic-Tac-Toe & Player Statistics
+# Java Swing Tic-Tac-Toe & Player Statistics
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GUI](https://img.shields.io/badge/GUI-Java_Swing-blue?style=for-the-badge)
 
-> **Academic Project — ES234211 Programming Fundamental (E)** > 👤 **Author:** Fadhil Mauludi | 💳 **Student ID:** 5026251221
+> **Academic Project — ES234211 Programming Fundamental (E)** > **Author:** Fadhil Mauludi | **Student ID:** 5026251221
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 A desktop-based Tic-Tac-Toe game application built with **Java Swing GUI**. This project goes beyond a simple game by integrating a **MySQL database** to handle user authentication (login), track individual player statistics, and display a global Top 5 leaderboard. Players compete against a smart computer AI designed to actively block and win.
 
 ---
 
-## ✨ Key Features
+## Key Features
 - ✅ Login using MySQL database
 - ✅ Play Tic-Tac-Toe against computer (Java Swing GUI)
 - ✅ Smart computer AI (tries to win, blocks player)
@@ -21,7 +21,7 @@ A desktop-based Tic-Tac-Toe game application built with **Java Swing GUI**. This
 - ✅ Display personal statistics
 - ✅ Display Top 5 scorers using JTable
 
-### 🎯 Score System
+### Score System
 | Match Result | Points Awarded |
 |:---:|:---:|
 | **Win** | `+10 Points` |
@@ -30,14 +30,14 @@ A desktop-based Tic-Tac-Toe game application built with **Java Swing GUI**. This
 
 ---
 
-## 🗄️ Database
+## Database
 - **DBMS:** MySQL
 - **Database name:** `game_project`
 - **Table:** `players` (id, username, password, wins, losses, draws, score)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Step 1: Setup Database
 1. Open MySQL (XAMPP / MySQL Workbench).
@@ -73,7 +73,7 @@ java -cp ".;path/to/mysql-connector-j-x.x.x.jar" Main
 
 ---
 
-## 🧩 Class Explanation
+## Class Explanation
 
 | Class | Responsibility |
 |---|---|
@@ -90,7 +90,7 @@ java -cp ".;path/to/mysql-connector-j-x.x.x.jar" Main
 
 ---
 
-## 🔄 Program Flow
+## Program Flow
 ```text
 Main.java → LoginFrame → (authenticate) → MainMenuFrame
                                               ├── GameFrame (play Tic-Tac-Toe)
@@ -100,7 +100,7 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
 
 ---
 
-## 📸 Tampilan Aplikasi Tic-Tac-Toe
+## Tampilan Aplikasi Tic-Tac-Toe
 
 <table>
   <tr>
