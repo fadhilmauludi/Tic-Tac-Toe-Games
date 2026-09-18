@@ -109,9 +109,9 @@ Main.java → LoginFrame → (authenticate) → MainMenuFrame
   </tr>
   <tr>
     <td align="center"><b>In Game</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(399).png" width="350" alt="Gameplay"></td>
+     <td align="center"><b>Hasil Game</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(400).png" width="350" alt="Result"></td>
   </tr>
   <tr>
-    <td align="center"><b>Hasil Game</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(400).png" width="350" alt="Result"></td>
     <td align="center"><b>Statistik Game Saya</b><br><img src="Tic%20Tac%20Toe%20Games/img/Screenshot%20(401).png" width="350" alt="Stats"></td>
   </tr>
   <tr>
